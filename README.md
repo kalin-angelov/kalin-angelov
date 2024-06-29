@@ -6,6 +6,6 @@ About me, i'm a Front-End Coding enthusiast with a passion for web programming �
 - 🔍 Take a look at my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/kalin-angelov)!.
 
 ## ⚒️ Tools i work with
-[![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,sass,vite,react,redux,nodejs,mongodb,npm&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,js,html,css,sass,tailwindcss,vite,react,redux,nodejs,mongodb,npm&theme=light)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalin-angelov&layout=compact&theme=dark)
