@@ -1,5 +1,5 @@
 ## Hi there! 👋
-About me, i'm a Front-End Coding enthusiast with a passion for web programming 👨🏽‍💻, gaming 🎮 and reading 📚.
+About me, i'm a Coding enthusiast with a passion for web programming 👨🏽‍💻, gaming 🎮 and reading 📚.
 
 - 🔭 I’m currently working on becoming a Frond-End Developer.
 - 📫 How to reach me: kalin.st.abgelov@gmail.com
