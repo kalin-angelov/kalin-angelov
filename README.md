@@ -1,7 +1,7 @@
 ## Hi there! 👋
 About me, i'm a coding enthusiast with a passion for programming 👨🏽‍💻, gaming 🎮 and reading 📚.
 
-- 🔭 I’m currently working on becoming a Frond-End Developer.
+- 🔭 I’m currently working on becoming a Web Developer.
 - 📫 How to reach me: kalin.st.abgelov@gmail.com
 - 🔍 Take a look at my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/kalin-angelov)
 
