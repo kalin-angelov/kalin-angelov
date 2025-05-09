@@ -3,7 +3,6 @@ About me, i'm a coding enthusiast with a passion for programming 👨🏽‍💻
 
 - 🔭 I’m currently working on becoming Web Developer.
 - 📫 How to reach me: kalin.st.abgelov@gmail.com
-- 🔍 Take a look at my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/kalin-angelov)
 
 ## ⚒️ Tools i work with
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,spring,mysql&theme=light)](https://skillicons.dev)
