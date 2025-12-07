@@ -7,4 +7,4 @@ About me, i'm a coding enthusiast with a passion for programming 👨🏽‍💻
   -  kalin.st.angelov@gmail.com
 
 ## ⚒️ Tools i work with
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,spring,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,spring,mysql&theme=light)](https://skillicons.dev)
